@@ -1,5 +1,5 @@
 # Exercícios - Programação C
-[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c)
+[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ca9c42caf0ab4624a7685ec547aa3789)](https://www.codacy.com/gh/LuisFelipeFrancisco/Linguagem-de-Programacao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LuisFelipeFrancisco/Linguagem-de-Programacao&amp;utm_campaign=Badge_Grade)
 
 1. Faça  um  programa  que  leia  um  número  inteiro  e  o  imprima.
 2. Faça  um  programa  que  leia  um  número  real  e  o  imprima.
