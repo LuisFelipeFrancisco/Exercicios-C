@@ -1,6 +1,5 @@
 # Exercícios - Programação C
-[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ca9c42caf0ab4624a7685ec547aa3789)](https://www.codacy.com/gh/LuisFelipeFrancisco/Linguagem-de-Programacao/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LuisFelipeFrancisco/Linguagem-de-Programacao&amp;utm_campaign=Badge_Grade)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/babf9f2ea1304c6ea0f8a09b0e5e25e7)](https://www.codacy.com/gh/LuisFelipeFrancisco/exercicios-c/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LuisFelipeFrancisco/exercicios-c&amp;utm_campaign=Badge_Grade)
 1. Faça  um  programa  que  leia  um  número  inteiro  e  o  imprima.
 2. Faça  um  programa  que  leia  um  número  real  e  o  imprima.
 3. Peça  ao  usuário  para  digitar  três  valores  inteiros  e  imprima  a  soma deles.
