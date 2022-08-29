@@ -1,2 +1,1 @@
-# exercicios-c
-Exercicios curso de programação em C
+# Exercícios - Programação C
