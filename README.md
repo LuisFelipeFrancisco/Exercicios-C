@@ -1,5 +1,28 @@
+# Programação em C do básico ao avançado
+
+This repository contains the source code for the course "Programação em C do básico ao avançado" by Geek University.
+
+## Course Content
+
+- Introduction to C
+- Variables and Data Types
+- Constants
+- Operators
+- Input and Output
+- Conditional Structures
+- Repetitive Structures
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Structures
+- Files
+- Dynamic Memory Allocation
+- Recursion
+- Preprocessor
+- Debugging
+- Makefile
 # Exercícios - Programação C
-[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/babf9f2ea1304c6ea0f8a09b0e5e25e7)](https://www.codacy.com/gh/LuisFelipeFrancisco/exercicios-c/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LuisFelipeFrancisco/exercicios-c&amp;utm_campaign=Badge_Grade)
 1. Faça  um  programa  que  leia  um  número  inteiro  e  o  imprima.
 2. Faça  um  programa  que  leia  um  número  real  e  o  imprima.
 3. Peça  ao  usuário  para  digitar  três  valores  inteiros  e  imprima  a  soma deles.
@@ -21,3 +44,5 @@
 19. Leia  um  valor  de  volume  em  litros  e  apresente-o  convertido  em  metros  cúbicos  m³.  À  fórmula  de  conversão  é:  M  =  L / 1000  sendo  L  o  volume  em  litros  e  M  o  volume  em  metros  cúbicos.
 20. Leia  um  valor  de  massa  em  quilogramas  e  apresente-o  convertido  em  libras.  A  fórmula  de  conversão  é:  L  =  K / 0,45,  sendo  K  a  massa  em  quilogramas  e  L  a  massa  em  libras.
 21. 
+---
+[![CodeFactor](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c/badge)](https://www.codefactor.io/repository/github/luisfelipefrancisco/exercicios-c)
